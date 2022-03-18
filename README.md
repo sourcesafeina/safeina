@@ -18,7 +18,7 @@ Fork Deploy is highly recommended
 
 this userbot is import of catuserbot and translate to arabic
 
-https://t.me/catuserbot_support
+https://t.me/S_F_M_1
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
